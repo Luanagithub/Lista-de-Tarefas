@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+
+
+
+.checked {
+    text-decoration: line-through;
+}
+
+ul, ol {
+    list-style: none;
+}
